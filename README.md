@@ -19,5 +19,5 @@ I express my gratitude to Prof. Luyao Zhang, who instructed me and my fellow cla
 
 ## Poster of the Project
 
-https://www.canva.com/design/DAGXuIVnn60/pBcShVuD4SuDNP0bhPU40Q/edit?utm_content=DAGXuIVnn60&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
+<img decoding="auto" src=visualizataions\STA_201_Poster.png width="66%">
 
